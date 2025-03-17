@@ -18,4 +18,18 @@ Soon to be open source officially:
 
 - [Terpsichore ]() 3D MHD stability code
 
-- [interpos https://gitlab.epfl.ch/spc/interpos](https://gitlab.epfl.ch/spc/interpos) linear, quadratic and cubic spline with tension library (can be used from fortran, C, idl, matlab, python, tdi...), see [https://www.epfl.ch/research/domains/swiss-plasma-center/research/theory/codes/interpos](https://crppwww.epfl.ch/~sauter/interpos)
+- [interpos https://gitlab.epfl.ch/spc/interpos](https://gitlab.epfl.ch/spc/interpos) linear, quadratic and cubic spline with tension library (can be used from fortran, C, idl, matlab, python, tdi...), see [https://www.epfl.ch/research/domains/swiss-plasma-center/research/theory/codes/interpos](https://www.epfl.ch/research/domains/swiss-plasma-center/research/theory/codes/interpos)
+
+- [cocos https://gitlab.epfl.ch/spc/cocos](https://gitlab.epfl.ch/spc/cocos) Tokamak Coordinate Conventions: COCOS, see [https://crppwww.epfl.ch/~sauter/cocos](https://crppwww.epfl.ch/~sauter/cocos)
+
+- [ntm-module https://gitlab.epfl.ch/spc/ntm-module](https://gitlab.epfl.ch/spc/ntm-module) Fortran modified Rutherfor equation module and effects on transport, see [https://crppwww.epfl.ch/~sauter/ntmmodule_deff](https://crppwww.epfl.ch/~sauter/ntmmodule_deff)
+
+- [co-mre https://gitlab.epfl.ch/spc/co-mre](https://gitlab.epfl.ch/spc/co-mre) Comprehensive modified Rutherfor equation solver, matlab, including real-time application, see [https://crppwww.epfl.ch/~sauter/co-mre](https://crppwww.epfl.ch/~sauter/co-mre)
+
+- [DEFUSE https://gitlab.epfl.ch/spc/defuse](https://gitlab.epfl.ch/spc/defuse) Disruption and Event analysis framework for FUSion Experiments, see [https://crppwww.epfl.ch/~sauter/defuse](https://crppwww.epfl.ch/~sauter/defuse)
+
+
+
+
+
+More information, access requests: Olivier.Sauter at epfl.ch
