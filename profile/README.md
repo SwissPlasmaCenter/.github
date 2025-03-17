@@ -12,7 +12,7 @@ Open source codes:
 
 - [CHEASE https://gitlab.epfl.ch/spc/chease](https://gitlab.epfl.ch/spc/chease) Fixed boundary equilibrium code, see [https://spc.epfl.ch/chease](https://www.epfl.ch/research/domains/swiss-plasma-center/research/theory/codes/chease)
 
-- [MEQ suite https://gitlab.epfl.ch/spc/tcv/tbx/meq](https://gitlab.epfl.ch/spc/tcv/tbx/meq) matlab free boundary equilibrium code
+- [MEQ suite https://gitlab.epfl.ch/spc/tcv/tbx/meq](https://gitlab.epfl.ch/spc/tcv/tbx/meq) matlab free boundary equilibrium codes
 
 Soon to be open source officially:
 
