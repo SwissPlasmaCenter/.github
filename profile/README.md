@@ -30,6 +30,8 @@ Soon to be open source officially:
 
 - [LION https://gitlab.epfl.ch/spc/LION](https://gitlab.epfl.ch/spc/LION) Wave-particle interaction for waves in the Ion Cyclotron Range of Frequencies, see [https://crppwww.epfl.ch/~sauter/LION](https://crppwww.epfl.ch/~sauter/LION)
 
+- [CAXE-KINX https://gitlab.epfl.ch/spc/Caxe-Kinx](https://gitlab.epfl.ch/spc/Caxe-Kinx) Ideal MHD stability and equilibrium including X-point, see [https://crppwww.epfl.ch/~sauter/CaxeKinx](https://crppwww.epfl.ch/~sauter/CaxeKinx)
+
 - [RAPTOR https://gitlab.epfl.ch/spc/RAPTOR](https://gitlab.epfl.ch/spc/RAPTOR) Rapid 1.5D radial transport code, including real-time and optimization of tokamak trajectories, see [https://crppwww.epfl.ch/~sauter/RAPTOR](https://crppwww.epfl.ch/~sauter/RAPTOR)
 
 - [ECPOL https://gitlab.epfl.ch/spc/ECPOL](https://gitlab.epfl.ch/spc/ECPOL) Matlab package for evaluating Electron Cyclotron propagation including polarization, see [https://crppwww.epfl.ch/~sauter/ECPOL](https://crppwww.epfl.ch/~sauter/ECPOL)
