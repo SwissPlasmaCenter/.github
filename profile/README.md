@@ -12,7 +12,7 @@ Open source codes:
 
 - [CHEASE https://gitlab.epfl.ch/spc/chease](https://gitlab.epfl.ch/spc/chease) Fixed boundary equilibrium code, see [https://spc.epfl.ch/chease](https://www.epfl.ch/research/domains/swiss-plasma-center/research/theory/codes/chease)
 
-- [MEQ suite https://gitlab.epfl.ch/spc/tcv/tbx/meq](https://gitlab.epfl.ch/spc/tcv/tbx/meq) matlab free boundary equilibrium codes
+- [MEQ suite https://gitlab.epfl.ch/spc/tcv/tbx/meq](https://gitlab.epfl.ch/spc/tcv/tbx/meq) matlab free boundary equilibrium codes *(gitlab meq repository soon with public access)*
 
 Soon to be open source officially:
 
@@ -22,9 +22,9 @@ Soon to be open source officially:
 
 - [cocos https://gitlab.epfl.ch/spc/cocos](https://gitlab.epfl.ch/spc/cocos) Tokamak Coordinate Conventions: COCOS, see [https://crppwww.epfl.ch/~sauter/cocos](https://crppwww.epfl.ch/~sauter/cocos)
 
-- [ntm-module https://gitlab.epfl.ch/spc/ntm-module](https://gitlab.epfl.ch/spc/ntm-module) Fortran modified Rutherfor equation module and effects on transport, see [https://crppwww.epfl.ch/~sauter/ntmmodule_deff](https://crppwww.epfl.ch/~sauter/ntmmodule_deff)
+- [ntm-module https://gitlab.epfl.ch/spc/ntm-module](https://gitlab.epfl.ch/spc/ntm-module) Fortran modified Rutherford equation module and effects on transport, see [https://crppwww.epfl.ch/~sauter/ntmmodule_deff](https://crppwww.epfl.ch/~sauter/ntmmodule_deff)
 
-- [co-mre https://gitlab.epfl.ch/spc/co-mre](https://gitlab.epfl.ch/spc/co-mre) Comprehensive modified Rutherfor equation solver, matlab, including real-time application, see [https://crppwww.epfl.ch/~sauter/co-mre](https://crppwww.epfl.ch/~sauter/co-mre)
+- [co-mre https://gitlab.epfl.ch/spc/co-mre](https://gitlab.epfl.ch/spc/co-mre) Comprehensive modified Rutherford equation solver, matlab, including real-time application, see [https://crppwww.epfl.ch/~sauter/co-mre](https://crppwww.epfl.ch/~sauter/co-mre)
 
 - [DEFUSE https://gitlab.epfl.ch/spc/defuse](https://gitlab.epfl.ch/spc/defuse) Disruption and Event analysis framework for FUSion Experiments, see [https://crppwww.epfl.ch/~sauter/defuse](https://crppwww.epfl.ch/~sauter/defuse)
 
@@ -38,6 +38,12 @@ Soon to be open source officially:
 
 - [gdat https://gitlab.epfl.ch/spc/gdat](https://gitlab.epfl.ch/spc/gdat) Matlab package getting data from various machines in a coordinated way, including IMAS/IDS data, see [https://crppwww.epfl.ch/~sauter/gdat](https://crppwww.epfl.ch/~sauter/gdat)
 
-
+# Contributing
+- You are very welcome to contribute to these codes and/or propose new features, improvements, ...
+- To be able to become a contributor (and see above repositories not yet public):
+  1. Create a guest account at https://guests.epfl.ch
+  2. Log in with the guest account to https://gitlab.epfl.ch
+  3. Provide your gitlab username and ask to become a member of the target repository
+ 
 
 More information, access requests: Olivier.Sauter at epfl.ch
