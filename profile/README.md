@@ -1,6 +1,6 @@
 # Swiss Plasma Center github organization
 
-The [Swiss Plasma Center (SPC)](https://www.epfl.ch/research/domains/swiss-plasma-center) is a research center part of the [EPFL, Lausanne Switzerland](https://www.epfl.ch)
+The [Swiss Plasma Center (SPC)](https://www.epfl.ch/research/domains/swiss-plasma-center) is a research center part of the [EPFL, Lausanne, Switzerland](https://www.epfl.ch)
 
 The https://github.com/SwissPlasmaCenter centralizes the various open source developed and/or supported by the Swiss Plasma Center, using licenses from LGPL to MIT
 
