@@ -2,7 +2,7 @@
 
 The [Swiss Plasma Center (SPC)](https://www.epfl.ch/research/domains/swiss-plasma-center) is a research center part of the [EPFL, Lausanne, Switzerland](https://www.epfl.ch)
 
-The https://github.com/SwissPlasmaCenter centralizes the various open source developed and/or supported by the Swiss Plasma Center, SPC-EPFL, using licenses from LGPL to MIT
+The https://github.com/SwissPlasmaCenter centralizes the various open source developed and/or supported by the Swiss Plasma Center,  SPC-EPFL, using licenses from LGPL to MIT
 
 A list of codes and their websites is also available at [SPC codes](https://www.epfl.ch/research/domains/swiss-plasma-center/research/theory/codes), including codes not yet fully open source but with a simple agreement for collaboration.
 
