@@ -18,6 +18,8 @@ Open source codes:
 
 - [FENNECS lite](https://ic-gitlab.epfl.ch/pgiroud/fennecslite/) 3D fluid code for simulating non-neutral plasmas with application to gyrotron physics 
 
+- [pyoculus](https://github.com/Akitzu/pyoculus) Methods for finding fixed points, Greenes residue, manifolds and chaos in iterated maps and fusion fields. 
+
 Soon to be open source officially:
 
 - [Terpsichore ]() 3D MHD stability code
