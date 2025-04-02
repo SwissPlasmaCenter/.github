@@ -14,6 +14,10 @@ Open source codes:
 
 - [MEQ suite https://gitlab.epfl.ch/spc/tcv/tbx/meq](https://gitlab.epfl.ch/spc/tcv/tbx/meq) matlab free boundary equilibrium codes *(gitlab meq repository soon with public access)*
 
+- [FENNECS](https://ic-gitlab.epfl.ch/pgiroud/fennecs) 2D PIC code for simulating non-neutral plasmas with application to gyrotron physics 
+
+- [FENNECS lite](https://ic-gitlab.epfl.ch/pgiroud/fennecslite/) 3D fluid code for simulating non-neutral plasmas with application to gyrotron physics 
+
 Soon to be open source officially:
 
 - [Terpsichore ]() 3D MHD stability code
