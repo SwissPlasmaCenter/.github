@@ -18,7 +18,11 @@ Open source codes:
 
 - [FENNECS lite https://ic-gitlab.epfl.ch/pgiroud/fennecslite/](https://ic-gitlab.epfl.ch/pgiroud/fennecslite/) 3D fluid code for simulating non-neutral plasmas with application to gyrotron physics 
 
-- [pyoculus https://github.com/Akitzu/pyoculus](https://github.com/Akitzu/pyoculus) Methods for finding fixed points, Greenes residue, manifolds and chaos in iterated maps and fusion fields. 
+- [pyoculus https://github.com/Akitzu/pyoculus](https://github.com/Akitzu/pyoculus) Methods for finding fixed points, Greenes residue, manifolds and chaos in iterated maps and fusion fields
+
+- [tearing mode solver https://gitlab.epfl.ch/spc/public/tearing_mode_solver](https://gitlab.epfl.ch/spc/public/tearing_mode_solver) Python-based solver for tearing mode stability ($\Delta'$) in tokamaks using a shooting method 
+
+- [passive-runaway-midigation-coil https://gitlab.epfl.ch/spc/public/passive-runaway-mitigation-coil](https://gitlab.epfl.ch/spc/public/passive-runaway-mitigation-coil) Scripts analyzing perturbation due to variable geometry passive runaway electron mitigation coils on TCV equilibria using FIELDLINES
 
 Soon to be open source officially:
 
