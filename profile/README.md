@@ -14,11 +14,11 @@ Open source codes:
 
 - [MEQ suite https://gitlab.epfl.ch/spc/tcv/tbx/meq](https://gitlab.epfl.ch/spc/tcv/tbx/meq) matlab free boundary equilibrium codes *(gitlab meq repository soon with public access)*
 
-- [FENNECS](https://ic-gitlab.epfl.ch/pgiroud/fennecs) 2D PIC code for simulating non-neutral plasmas with application to gyrotron physics 
+- [FENNECS https://ic-gitlab.epfl.ch/pgiroud/fennecs](https://ic-gitlab.epfl.ch/pgiroud/fennecs) 2D PIC code for simulating non-neutral plasmas with application to gyrotron physics 
 
-- [FENNECS lite](https://ic-gitlab.epfl.ch/pgiroud/fennecslite/) 3D fluid code for simulating non-neutral plasmas with application to gyrotron physics 
+- [FENNECS lite https://ic-gitlab.epfl.ch/pgiroud/fennecslite/](https://ic-gitlab.epfl.ch/pgiroud/fennecslite/) 3D fluid code for simulating non-neutral plasmas with application to gyrotron physics 
 
-- [pyoculus](https://github.com/Akitzu/pyoculus) Methods for finding fixed points, Greenes residue, manifolds and chaos in iterated maps and fusion fields. 
+- [pyoculus https://github.com/Akitzu/pyoculus](https://github.com/Akitzu/pyoculus) Methods for finding fixed points, Greenes residue, manifolds and chaos in iterated maps and fusion fields. 
 
 Soon to be open source officially:
 
