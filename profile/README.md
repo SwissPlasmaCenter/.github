@@ -14,19 +14,21 @@ Open source codes:
 
 - [MEQ suite https://gitlab.epfl.ch/spc/tcv/tbx/meq](https://gitlab.epfl.ch/spc/tcv/tbx/meq) matlab free boundary equilibrium codes *(gitlab meq repository soon with public access)*
 
-- [FENNECS https://ic-gitlab.epfl.ch/pgiroud/fennecs](https://ic-gitlab.epfl.ch/pgiroud/fennecs) 2D PIC code for simulating non-neutral plasmas with application to gyrotron physics 
+- [FENNECS https://ic-gitlab.epfl.ch/pgiroud/fennecs](https://ic-gitlab.epfl.ch/pgiroud/fennecs) 2D PIC code for simulating non-neutral plasmas with application to gyrotron physics
 
-- [FENNECS lite https://ic-gitlab.epfl.ch/pgiroud/fennecslite/](https://ic-gitlab.epfl.ch/pgiroud/fennecslite/) 3D fluid code for simulating non-neutral plasmas with application to gyrotron physics 
+- [FENNECS lite https://ic-gitlab.epfl.ch/pgiroud/fennecslite/](https://ic-gitlab.epfl.ch/pgiroud/fennecslite/) 3D fluid code for simulating non-neutral plasmas with application to gyrotron physics
 
 - [pyoculus https://github.com/Akitzu/pyoculus](https://github.com/Akitzu/pyoculus) Methods for finding fixed points, Greenes residue, manifolds and chaos in iterated maps and fusion fields
 
-- [tearing mode solver https://gitlab.epfl.ch/spc/public/tearing_mode_solver](https://gitlab.epfl.ch/spc/public/tearing_mode_solver) Python-based solver for tearing mode stability ($\Delta'$) in tokamaks using a shooting method 
+- [tearing mode solver https://gitlab.epfl.ch/spc/public/tearing_mode_solver](https://gitlab.epfl.ch/spc/public/tearing_mode_solver) Python-based solver for tearing mode stability ($\Delta'$) in tokamaks using a shooting method
 
 - [passive-runaway-midigation-coil https://gitlab.epfl.ch/spc/public/passive-runaway-mitigation-coil](https://gitlab.epfl.ch/spc/public/passive-runaway-mitigation-coil) Scripts analyzing perturbation due to variable geometry passive runaway electron mitigation coils on TCV equilibria using FIELDLINES
 
-Soon to be open source officially:
+- [Terpsichore https://gitlab.epfl.ch/spc/public/terpsichore](https://gitlab.epfl.ch/spc/public/terpsichore) 3D MHD stability code
 
-- [Terpsichore ]() 3D MHD stability code
+- [Neos https://gitlab.epfl.ch/spc/public/neos](https://gitlab.epfl.ch/spc/public/neos) Neoclassical model using Sauter et al, Angioni et al and Redl et al
+
+Soon to be open source officially:
 
 - [interpos https://gitlab.epfl.ch/spc/interpos](https://gitlab.epfl.ch/spc/interpos) linear, quadratic and cubic spline with tension library (can be used from fortran, C, idl, matlab, python, tdi...), see [https://www.epfl.ch/research/domains/swiss-plasma-center/research/theory/codes/interpos](https://www.epfl.ch/research/domains/swiss-plasma-center/research/theory/codes/interpos)
 
@@ -56,6 +58,6 @@ Soon to be open source officially:
   1. Create a guest account at https://guests.epfl.ch
   2. Log in with the guest account to https://gitlab.epfl.ch
   3. Provide your gitlab username and ask to become a member of the target repository
- 
+
 
 More information, access requests: Olivier.Sauter at epfl.ch
