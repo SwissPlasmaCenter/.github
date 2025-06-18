@@ -24,17 +24,17 @@ Open source codes:
 
 - [passive-runaway-midigation-coil https://gitlab.epfl.ch/spc/public/passive-runaway-mitigation-coil](https://gitlab.epfl.ch/spc/public/passive-runaway-mitigation-coil) Scripts analyzing perturbation due to variable geometry passive runaway electron mitigation coils on TCV equilibria using FIELDLINES
 
-- [Terpsichore https://gitlab.epfl.ch/spc/public/terpsichore](https://gitlab.epfl.ch/spc/public/terpsichore) 3D MHD stability code
+- [TERPSICHORE https://gitlab.epfl.ch/spc/public/terpsichore](https://gitlab.epfl.ch/spc/public/terpsichore) 3D MHD stability code
 
-- [Neos https://gitlab.epfl.ch/spc/public/neos](https://gitlab.epfl.ch/spc/public/neos) Neoclassical model using Sauter et al, Angioni et al and Redl et al
+- [NEOS https://gitlab.epfl.ch/spc/public/neos](https://gitlab.epfl.ch/spc/public/neos) Neoclassical model using Sauter et al, Angioni et al and Redl et al
 
-- [sawteeth https://gitlab.epfl.ch/spc/sawteeth](https://gitlab.epfl.ch/spc/sawteeth) module for the effects of sawteeth in radial transport simulation, see [https://crppwww.epfl.ch/~sauter/sawteeth](https://crppwww.epfl.ch/~sauter/sawteeth)
+- [SAWTEETH https://gitlab.epfl.ch/spc/public/sawteeth](https://gitlab.epfl.ch/spc/public/sawteeth) module for the effects of sawteeth in radial transport simulation, see [https://crppwww.epfl.ch/~sauter/sawteeth](https://crppwww.epfl.ch/~sauter/sawteeth)
 
 Soon to be open source officially:
 
 - [interpos https://gitlab.epfl.ch/spc/interpos](https://gitlab.epfl.ch/spc/interpos) linear, quadratic and cubic spline with tension library (can be used from fortran, C, idl, matlab, python, tdi...), see [https://www.epfl.ch/research/domains/swiss-plasma-center/research/theory/codes/interpos](https://www.epfl.ch/research/domains/swiss-plasma-center/research/theory/codes/interpos)
 
-- [cocos https://gitlab.epfl.ch/spc/cocos](https://gitlab.epfl.ch/spc/cocos) Tokamak Coordinate Conventions: COCOS, see [https://crppwww.epfl.ch/~sauter/cocos](https://crppwww.epfl.ch/~sauter/cocos)
+- [COCOS https://gitlab.epfl.ch/spc/cocos](https://gitlab.epfl.ch/spc/cocos) Tokamak Coordinate Conventions: COCOS, see [https://crppwww.epfl.ch/~sauter/cocos](https://crppwww.epfl.ch/~sauter/cocos)
 
 - [ntm-module https://gitlab.epfl.ch/spc/ntm-module](https://gitlab.epfl.ch/spc/ntm-module) Fortran modified Rutherford equation module and effects on transport, see [https://crppwww.epfl.ch/~sauter/ntmmodule_deff](https://crppwww.epfl.ch/~sauter/ntmmodule_deff)
 
